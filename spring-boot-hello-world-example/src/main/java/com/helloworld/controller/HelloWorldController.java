@@ -7,6 +7,6 @@ public class HelloWorldController
 @RequestMapping("/")
 public String hello() 
 {
-return "<h1> Strive not to be a success, but rather to be of value. –Albert Einstein </h1>";
+return "<h1> Be yourself; everyone else is already taken.― Oscar Wilde </h1>";
 }
 }
